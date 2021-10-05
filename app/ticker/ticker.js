@@ -117,4 +117,4 @@ const ticker = {
     }
 }
 
-exports = module.exports = ticker;
+module.exports = ticker;
